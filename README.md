@@ -1,4 +1,11 @@
-### Hi there 👋
+# Vinícius Vieira
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Vieira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusvs/)](https://www.linkedin.com/in/viniciusvs/) 
+[![Gmail Badge](https://img.shields.io/badge/-viniiivs@outlook.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniiivs@outlook.com)](mailto:viniiivs@outlook.com)
+
+I'm passionate about finding shortcuts to improve daily routines, using modern and useful technologies to streamline processes. 
+I always strive to make it the best it can be within my means.
+
 
 <!--
 **viniiivs/viniiivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

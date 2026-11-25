@@ -3,6 +3,10 @@
 ## Por quê
 Quero chegar ao nível de artistas como Peggy Gou e RÜFÜS DU SOL: tocar sets que contam uma história, produzir minhas próprias faixas e construir uma carreira e uma identidade reconhecível. Não quero ser o cara que "chegou e ligou o pendrive".
 
+## Dois caminhos, um tronco
+- Primeiro: o modelo Peggy Gou, DJ/selecionador + produção.
+- Depois: o modelo RÜFÜS DU SOL, um live act eletrônico (composição, design de som, performance ao vivo). Enquanto isso, o RÜFÜS serve como referência de produção.
+
 ## Sucesso se parece com
 Marcos por progresso, sem prazo. Cada um só começa quando o anterior estiver sólido:
 1. Mix gravado de 30 min, com transições na frase

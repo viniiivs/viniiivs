@@ -63,7 +63,7 @@ footer{color:var(--mute);font-size:14px;border-top:1px solid var(--rule)}
       <h1>Curso de DJ</h1>
       <p class="lead">Do zero ao modelo Peggy Gou: DJ, selecionador e produtor. Depois, o live act no estilo RÜFÜS DU SOL. Sem prazos: cada passo só vem quando o anterior está sólido.</p>
     </div>
-    <div class="now"><b>Agora: Aula 1</b>Conte tempos e frases numa faixa de verdade. <a href="lessons/0001-conte-como-um-dj.html">Abrir a aula →</a></div>
+    <div class="now"><b>Agora: Aula 2</b>Anatomia da faixa, com áudio e medição de verdade. <a href="lessons/0002-anatomia-da-faixa.html">Abrir a aula →</a></div>
   </div>
   <div class="fig" id="set" role="img" aria-label="O curso como a curva de energia de um set, do nível 0 (ouvido) ao nível 5 (artista). Você está no início do nível 0."></div>
 </div></div>
@@ -115,7 +115,7 @@ footer{color:var(--mute);font-size:14px;border-top:1px solid var(--rule)}
 {
 const L=[
  ['0001','Conte como um DJ','Prever a próxima mudança de uma faixa contando frases de 32 tempos','done','lessons/0001-conte-como-um-dj.html'],
- ['0002','Anatomia da faixa','Mapa anotado de uma faixa da Peggy Gou: intro, breakdown, drop, outro','next'],
+ ['0002','Anatomia da faixa','Marcar as seções de uma faixa surpresa no tempo certo, com medição em ms','next','lessons/0002-anatomia-da-faixa.html'],
  ['0003','Setup grátis','Duas faixas carregadas no app, com cue points no início das frases',''],
  ['0004','Primeira transição','Uma passagem gravada com sync, alinhada na frase',''],
  ['0005','Troca de graves','A mesma passagem sem embolar os graves, antes e depois',''],
@@ -173,7 +173,7 @@ document.getElementById('src').innerHTML=S.map(([h,c,items])=>`<section class="$
 
 const lv=['Ouvido','Mixagem','Seleção','Performer','Clube','Artista'];
 const lvS=['Ouvido','Mix','Seleção','Palco','Clube','Artista'];
-const progress=0.04;
+const progress=0.08;
 const box=document.getElementById('set');
 let seed=7;const rnd=()=>(seed=seed*16807%2147483647)/2147483647;
 const noise=Array.from({length:96},()=>rnd());

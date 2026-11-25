@@ -3,6 +3,7 @@
 Resumo da revisão do mapa, da missão e da Aula 1. Itens com [verificar] ainda precisam de fonte antes de virar aula.
 
 ## Mudanças propostas
+> Nota (2026-11-25): o aluno recusou prazos. As metas por trimestre abaixo valem só como ordem dos marcos, sem data. Ver learning-records/0002.
 - Começar a produção cedo (a partir do mês 2), com divisão de tempo ~50% prática de DJ / 30% produção / 20% escuta e garimpo.
 - Metas por trimestre: T1 mix gravado de 30 min · T2 mix de 60 min publicado + primeiro edit · T3 set para amigos/bar + esboço de faixa · T4 gig + lançamento independente.
 - Networking (sair, conhecer promoters e coletivos) como hábito desde o mês 1, e não como tópico final.

@@ -4,9 +4,12 @@
 Quero chegar ao nível de artistas como Peggy Gou e RÜFÜS DU SOL: tocar sets que contam uma história, produzir minhas próprias faixas e construir uma carreira e uma identidade reconhecível. Não quero ser o cara que "chegou e ligou o pendrive".
 
 ## Sucesso se parece com
-- Em 1 ano: tocar a primeira gig real (festa, bar ou evento pequeno)
-- Em 1 ano: publicar mixes/vídeos com regularidade nas redes
-- Em 1 ano: lançar as primeiras faixas originais
+Marcos por progresso, sem prazo. Cada um só começa quando o anterior estiver sólido:
+1. Mix gravado de 30 min, com transições na frase
+2. Mix de 60 min publicado e primeiro edit
+3. Primeiro set ao vivo (amigos ou bar) e esboço de faixa própria
+4. Primeira gig real e primeiro lançamento independente
+5. Mixes e vídeos publicados com regularidade nas redes
 - Saber explicar por que escolhi cada faixa e cada transição de um set
 - Ter um estilo que outros DJs reconheçam como meu
 

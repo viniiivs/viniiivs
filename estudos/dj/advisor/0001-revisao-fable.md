@@ -27,6 +27,7 @@ Resumo da revisão do mapa, da missão e da Aula 1. Itens com [verificar] ainda 
 Em paralelo, a cada 2 semanas, uma trilha curta de produção: tour pela DAW, loop de bateria 4/4, baixo e acordes no Casiotone, gravar uma frase de trompete.
 
 ## Trompete como diferencial
+> Descartado (2026-11-25): o aluno não tem mais trompete, e o trompete não é meta. Usar só a base de ouvido e arranjo.
 Trompete ao vivo por cima dos sets (gancho para vídeo), banco próprio de samples de metais (sem risco de direitos autorais), arranjo e ouvido já treinados. Também pode explorar metais com ritmo brasileiro dentro do house [verificar exemplos atuais]. A longo prazo, um live set híbrido. Perguntar: ainda tem trompete? A embocadura ainda está em forma?
 
 ## Riscos

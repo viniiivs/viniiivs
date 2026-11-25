@@ -4,4 +4,4 @@ O aluno tocou trompete em orquestra sinfônica quando mais novo e tem um teclado
 
 **Evidence**: disse isso ao responder a entrevista inicial (2026-11-25). A profundidade ainda não foi testada.
 
-**Implications**: usar analogias de orquestra. Leitura de partitura e harmonia ficam para a parte de produção e mixagem harmônica. Também vale explorar o trompete como assinatura sonora no futuro.
+**Implications**: usar analogias de orquestra. Leitura de partitura e harmonia ficam para a parte de produção e mixagem harmônica. Ele NÃO tem mais trompete e o trompete não é meta: a experiência só mostra que tem base musical. Não propor trompete ao vivo nem samples de trompete.

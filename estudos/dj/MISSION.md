@@ -16,7 +16,7 @@ Marcos por progresso, sem prazo. Cada um só começa quando o anterior estiver s
 ## Restrições
 - 3 a 7 horas por semana
 - Começando sem equipamento de DJ: computador, iPhone 16 Pro Max, 2 Androids (Mi 9T Pro, Moto G5), Casiotone, fones Logitech G435 e Soundcore Liberty 4 NC (ambos sem fio)
-- Base musical: ex-trompetista de orquestra sinfônica (lê compasso, conta tempo, entende seções)
+- Base musical: tocou trompete em orquestra sinfônica no passado (lê compasso, conta tempo, entende seções). Não tem mais trompete, e ele não faz parte do plano.
 
 ## Fora do escopo (por enquanto)
 - Comprar equipamento antes de dominar o básico no software grátis

@@ -36,6 +36,16 @@ Antes de comprar, veja quais cabos já vêm na caixa da MR4 e do HD 25.
 FLX4 + cabo USB-C · MacBook Neo + carregador · HD 25 · protetor auricular · RCA–RCA 3 m · 2 RCA → P2 · adaptador P2→P10 · pendrive de backup.
 MR4 só se o amigo não tiver som nenhum e for algo pequeno (42 W é pouco para festa).
 
+## Links encontrados (busca de 27/11; páginas não abertas — conferir conector, comprimento e estoque)
+- RCA–RCA estéreo 3 m: https://www.kabum.com.br/produto/1004475/cabo-rca-3-metros-estereo-preto
+- P2 estéreo → 2 RCA, Santo Angelo (escolher 3 m): https://www.kabum.com.br/produto/1039485/cabo-p2-estereo-para-2-rca-santo-angelo-55-metros
+- P2–P2 estéreo 2 m (x2): https://www.kabum.com.br/produto/627560/cabo-p2-st-p2-st-preto-2m
+- Micro USB de dados Ugreen (buscar US289): https://www.magazineluiza.com.br/busca/cabo+micro+usb
+- Micro USB Anker PowerLine 1,8 m: https://www.buscape.com.br/cabo-de-dados-para-celular/cabo-micro-usb-anker-powerline-11132064-1-8m-cinza
+
+## Se o amigo não tiver som
+- JBL PartyBox 110 (~R$ 2.400–2.600): 160 W RMS, bateria 12 h, entrada auxiliar, 10,8 kg. FLX4 → cabo 2 RCA→P2 → aux. https://www.kabum.com.br/produto/249988/caixa-de-som-portatil-jbl-partybox-jblpartybox110br-led-160w-rms-bluetooth-a-prova-de-respingos-preto-58035030
+- JBL EON One Compact (~R$ 5.700–6.300): PA profissional, 8", bateria, várias entradas. https://www.pichau.com.br/caixa-de-som-jbl-eon-one-compact-bluetooth-preto-jbleonecompblk
+
 ## Depois
 - Interface de áudio + JBL 305P MkII (upgrade de produção)
-- Caixa PA própria para festas

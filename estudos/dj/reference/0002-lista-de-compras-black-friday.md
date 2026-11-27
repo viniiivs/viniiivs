@@ -10,7 +10,7 @@ Preços de anúncios sem data, encontrados em 25 e 26/11/2026. Confira o preço 
 ## Produção
 - [ ] Ableton Live 12 Intro (lista €79; promoções costumam dar ~25%). Inclui upgrade grátis para o Live 13. Standard se quiser mais instrumentos e efeitos (lista €279).
 - [ ] Monitores Edifier MR4 (PAR): ~R$ 1.000–1.900. Confira se o anúncio é do par. Têm entrada RCA e ligam direto na FLX4: servem para DJ e para produzir.
-- [ ] Cabo USB para o Casiotone (se for CT-S1/CT-S300: USB micro-B)
+- [ ] Cabo USB micro-B → USB-A para o Casiotone LK-S250 (~R$ 20–30)
 
 ## Não agora
 - Interface de áudio (Scarlett Solo ~US$ 160): só para gravar voz ou instrumento.
@@ -19,4 +19,4 @@ Preços de anúncios sem data, encontrados em 25 e 26/11/2026. Confira o preço 
 
 ## Pendências antes de comprar a parte de produção
 - ~~Specs do computador~~ resolvido: desktop Ryzen 7 5800X / 48 GB / RTX 5060 Ti. Não precisa de MacBook nem tablet.
-- Modelo do Casiotone
+- ~~Modelo do Casiotone~~ resolvido: LK-S250

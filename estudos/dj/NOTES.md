@@ -10,3 +10,4 @@
 - 2026-11-25: perguntou que controladora comprar. Recomendado: Pioneer/AlphaTheta DDJ-FLX4 (caminho rekordbox/CDJ; funciona com o iPhone 16 Pro Max via USB-C, no rekordbox iOS e no djay; ~R$ 2.400–3.300 novo no BR). Mais barata: DDJ-FLX2. Comprar depois das aulas 3 a 5 no software grátis, e o fone com fio antes. Considerar usado.
 - 2026-11-25: fone recomendado Sennheiser HD 25 (~R$ 1.280–1.300; cuidado com falsificação). Premium over-ear: Pioneer HDJ-X10. Mais barato: HD 25 Light.
 - Teclado: Casio Casiotone LK-S250 (quase certo; já ligou no app da Casio pelo celular). Tem USB micro-B e serve de teclado MIDI no Ableton. Precisa de cabo micro-B → USB-A.
+- Portátil para tocar: MacBook Neo 512 GB usado de amigo (R$ 5.500). Não quer usar o iPhone. Desktop = produção e biblioteca principal; Neo = tocar fora e exportar pendrive.

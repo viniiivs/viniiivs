@@ -8,11 +8,10 @@ Preços de anúncios sem data (25 a 27/11/2026). Confira o preço no dia.
 
 ## Tocar: em casa e na casa de amigos
 - [ ] Pioneer DJ DDJ-FLX4 (R$ 2.400–3.300; usada vale a pena)
-- [ ] Carregador USB-C de tomada (5 V): com iPhone, a FLX4 é alimentada pela 2ª porta USB, e o carregador não vem junto
 - [ ] Cabo RCA–RCA 2 m (FLX4 → som do amigo, ou → MR4)
 - [ ] Cabo 2 RCA → P2 2 m (para som/caixa que só tem entrada P2)
 - [ ] Bolsa ou case acolchoado para a FLX4
-- Computador para levar: o iPhone 16 Pro Max (rekordbox iOS / djay via USB-C). Notebook só se o iPhone limitar.
+- [ ] Computador para levar: MacBook Neo 512 GB usado de um amigo (R$ 5.500). Antes de fechar: garantia pelo número de série, saúde da bateria, sair do iCloud/Buscar Mac, apagar e reinstalar, testar as portas. O aluno não quer usar o iPhone para tocar.
 - Som: usar o do amigo (entrada RCA ou P2). Caixa PA própria só quando começar a tocar em festas.
 
 ## Produzir: em casa (desktop Ryzen 7 5800X / 48 GB)
@@ -22,5 +21,4 @@ Preços de anúncios sem data (25 a 27/11/2026). Confira o preço no dia.
 
 ## Depois
 - Interface de áudio + JBL 305P MkII (upgrade de produção)
-- Notebook (MacBook Air com chip M e 16 GB) se o iPhone não bastar fora de casa
 - Caixa PA própria para festas

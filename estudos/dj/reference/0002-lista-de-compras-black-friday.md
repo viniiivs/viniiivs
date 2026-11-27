@@ -18,5 +18,5 @@ Preços de anúncios sem data, encontrados em 25 e 26/11/2026. Confira o preço 
 - Outro teclado MIDI: o Casiotone pode servir.
 
 ## Pendências antes de comprar a parte de produção
-- Specs do computador (Mac/Windows, processador, RAM)
+- ~~Specs do computador~~ resolvido: desktop Ryzen 7 5800X / 48 GB / RTX 5060 Ti. Não precisa de MacBook nem tablet.
 - Modelo do Casiotone
